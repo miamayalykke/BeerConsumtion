@@ -12,4 +12,4 @@ __pycache__/
 # Environments
 .env
 .venv/
-.DS_Stpre
+.DS_Store
